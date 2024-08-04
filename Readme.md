@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Евгений Корпусов](https://up.htmlacademy.ru/javascript-individual/2/user/2555811).
-* Наставник: `Неизвестно`.
+- Студент: [Евгений Корпусов](https://up.htmlacademy.ru/javascript-individual/2/user/2555811).
+- Наставник: `Олег Глущенко`.
 
 ---
 
